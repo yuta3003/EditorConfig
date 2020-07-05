@@ -1,3 +1,6 @@
+# ルートの設定（.editorconfigをプロジェクトルートに配置する）
+root = true
+
 # EditorConfig
 [*]
 charset = utf-8
