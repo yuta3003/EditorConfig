@@ -1,3 +1,4 @@
+```
 # ルートの設定（.editorconfigをプロジェクトルートに配置する）
 root = true
 
@@ -17,3 +18,4 @@ indent_style = space
 [*.tf]
 indent_size = 2
 indent_style = space
+```
