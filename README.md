@@ -11,6 +11,14 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+[*.go]
+indent_style = tab
+indent_size = 2
+
+[*.md]
+indent_size = 4
+trim_trailing_whitespace = false
+
 [*.py]
 indent_size = 4
 indent_style = space
