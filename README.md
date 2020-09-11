@@ -26,4 +26,7 @@ indent_style = space
 [*.tf]
 indent_size = 2
 indent_style = space
+
+[*.yml]
+indent_size = 2
 ```
