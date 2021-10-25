@@ -1,4 +1,3 @@
-```
 # ルートの設定（.editorconfigをプロジェクトルートに配置する）
 root = true
 
@@ -30,4 +29,3 @@ indent_style = space
 
 [*.yml]
 indent_size = 2
-```
